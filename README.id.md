@@ -4,7 +4,7 @@
 
 Ini adalah contoh penggunaan Nextjs dan Purple CMS sebagai headless CMS. Purple CMS mempunyai fitur baru, yaitu Headless CMS. Yeeah, sebuah fitur yang sangat berguna untuk developer front-end. Buat dan atur konten di Purple CMS, fetch konten di Nextjs menggunakan fetch API. Keren banget guys.
 
-[Demo Link]()
+[Demo Link](https://nextjs-purple-cms.vercel.app/)
 
 ### Nextjs
 
