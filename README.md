@@ -18,7 +18,7 @@ Purple CMS is a Content Management System built with the CakePHP 3 framework. Th
 
 [Learn more about Purple CMS](https://github.com/bayukurniawan30/purple-cms)
 
-### Cara Instalasi
+### How to Install
 
 Clone or download this repo, and run the command below
 
