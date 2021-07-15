@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blog-content p {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.blog-content ul {
+    padding-left: 30px;
+}
+
+.blog-content ul li {
+    list-style: circle;
+}
+
+.blog-content pre {
+    border: 1px solid #D1D5DB;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    width: 100%;
+    overflow-x: scroll;
+    margin-bottom: 15px;
+}
+
+.blog-content img {
+    width: 100%;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    -webkit-box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
