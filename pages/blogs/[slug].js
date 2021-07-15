@@ -45,7 +45,6 @@ export default class BlogDetails extends React.Component {
     }
 
     render() {
-        console.log(this.blogData)
         return (
 			<div>
 				<Head>
